@@ -49,3 +49,5 @@ Support speech output for recognized gestures.
 🌟 Contribution
 
 Feel free to fork this repo, create a new branch, and submit a pull request for improvements!
+![ASL ](https://github.com/user-attachments/assets/b9c94a62-1d98-44bb-a127-154bb51116c1)
+
